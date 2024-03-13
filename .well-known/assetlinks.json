@@ -2,23 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.telenor.pakistan.mytelenor.debug",
-    "sha256_cert_fingerprints":
-    ["6A:69:78:6C:B7:AF:22:04:6B:5F:BF:5C:B1:E9:8F:CA:4F:47:DB:DB:1E:6E:28:2E:9C:8F:54:04:D3:FB:59:C5"]
-  }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "web",
-    "site": "https://mjunaidsystems.github.io"
-  }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.telenor.pakistan.mytelenor.debug",
+    "package_name": "com.example.androidapplinkrnd",
     "sha256_cert_fingerprints":
     ["6A:69:78:6C:B7:AF:22:04:6B:5F:BF:5C:B1:E9:8F:CA:4F:47:DB:DB:1E:6E:28:2E:9C:8F:54:04:D3:FB:59:C5"]
   }
